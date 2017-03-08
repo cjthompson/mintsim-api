@@ -1,0 +1,17 @@
+{
+  "name": "mintsim-api",
+  "version": "1.0.0",
+  "description": "MintSIM API client",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "mintsim"
+  ],
+  "author": "Chris Thompson <chris@thompson-web.org>",
+  "license": "ISC",
+  "dependencies": {
+    "rest": "^2.0.0"
+  }
+}
